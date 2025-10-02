@@ -15,7 +15,7 @@ Shozo Kawasaki nunca fabricó motos personalmente, pero sentó las bases para qu
 Después de la Segunda Guerra Mundial, Japón necesitaba medios de transporte rápidos y económicos.  
 En **1954**, Kawasaki fabricó su primera motocicleta, la **Meihatsu**, un modelo ligero de 125cc.  
 
-![Kawasaki Meihatsu 125](./images/meihatsu.jpg)
+![Kawasaki Meihatsu 125](.images/meihatsu.jpg)
 
 A partir de ahí comenzó la verdadera historia de **Kawasaki Motors**.
 
