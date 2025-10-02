@@ -15,7 +15,7 @@ Este repositorio contiene una pequeña **página web en Markdown** publicada con
 ## Cómo ver la página web
 Este repositorio está publicado con **GitHub Pages**.  
 Para acceder a la web haz clic aquí:  
-👉 [Enlace a la página publicada](https://davidcode-ai.github.io/Motos/)
+👉 [Enlace a la página publicada](https://davidcode-ai.github.io/El_legado_de_kawasaki/)
 
 *(Recuerda sustituir `TU_USUARIO` por tu usuario de GitHub y `mi-web-kawasaki` por el nombre real del repo).*
 
