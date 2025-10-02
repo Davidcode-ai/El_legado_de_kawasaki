@@ -15,7 +15,7 @@ Shozo Kawasaki nunca fabricó motos personalmente, pero sentó las bases para qu
 Después de la Segunda Guerra Mundial, Japón necesitaba medios de transporte rápidos y económicos.  
 En **1954**, Kawasaki fabricó su primera motocicleta, la **Meihatsu**, un modelo ligero de 125cc.  
 
-![Kawasaki Meihatsu 125](.images/meihatsu.jpg)
+![Kawasaki Meihatsu 125](./images/meihatsu.jpg)
 
 A partir de ahí comenzó la verdadera historia de **Kawasaki Motors**.
 
@@ -27,7 +27,7 @@ A partir de ahí comenzó la verdadera historia de **Kawasaki Motors**.
 Una superbike de 998cc, creada para la competición.  
 Se ha llevado múltiples campeonatos del mundo de Superbikes gracias a su **velocidad y aerodinámica**.
 
-![Kawasaki Ninja ZX-10R](.images/zx10r.jpg)
+![Kawasaki Ninja ZX-10R](./images/zx10r.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ Se ha llevado múltiples campeonatos del mundo de Superbikes gracias a su **velo
 La **joya de la corona**.  
 Es una motocicleta sobrealimentada con más de **300 caballos de fuerza**, considerada una de las más rápidas del mundo.
 
-![Kawasaki H2R](.images/h2r.jpg)
+![Kawasaki H2R](./images/h2r.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ Es una motocicleta sobrealimentada con más de **300 caballos de fuerza**, consi
 La legendaria “Z1” marcó un antes y un después en el motociclismo japonés.  
 Era una moto de 903cc que se convirtió en un símbolo de fiabilidad y potencia en los años 70.
 
-![Kawasaki Z1](.images/z1.jpg)
+![Kawasaki Z1](./images/z1.jpg)
 
 ---
 
