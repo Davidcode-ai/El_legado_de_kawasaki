@@ -14,6 +14,9 @@ Shozo Kawasaki nunca fabricó motos personalmente, pero sentó las bases para qu
 ## Expansión hacia las motocicletas
 Después de la Segunda Guerra Mundial, Japón necesitaba medios de transporte rápidos y económicos.  
 En **1954**, Kawasaki fabricó su primera motocicleta, la **Meihatsu**, un modelo ligero de 125cc.  
+
+![Kawasaki Meihatsu 125](./images/meihatsu.jpg)
+
 A partir de ahí comenzó la verdadera historia de **Kawasaki Motors**.
 
 ---
@@ -40,16 +43,10 @@ Es una motocicleta sobrealimentada con más de **300 caballos de fuerza**, consi
 La legendaria “Z1” marcó un antes y un después en el motociclismo japonés.  
 Era una moto de 903cc que se convirtió en un símbolo de fiabilidad y potencia en los años 70.
 
+![Kawasaki Z1](./images/z1.jpg)
+
 ---
 
 ## Enlaces útiles
 - [Volver a la página principal](./index.md)
 - [Más información en Wikipedia](https://es.wikipedia.org/wiki/Kawasaki_Motors)
-
----
-
-**Palabras destacadas:**  
-- **Shozo Kawasaki** → Fundador y visionario.  
-- **Ninja H2R** → Potencia extrema.  
-- **Z1** → Leyenda clásica.  
-- **Innovación** → Marca de la empresa desde su origen.
