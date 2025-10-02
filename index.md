@@ -11,6 +11,8 @@ Aquí encontrarás información sobre su historia, su fundador y sus modelos má
 Kawasaki Heavy Industries, Ltd. es una empresa japonesa fundada en el siglo XIX que fabrica desde trenes y aviones hasta barcos, maquinaria pesada y **motocicletas**.  
 La división de motos, conocida como **Kawasaki Motors**, se ha convertido en una de las más influyentes en la historia del motociclismo.
 
+![Fábrica de Kawasaki](./images/kawasaki_factory.jpg)
+
 ---
 
 ## Orígenes de la empresa
@@ -21,6 +23,8 @@ La división de motos, conocida como **Kawasaki Motors**, se ha convertido en un
 Shozo Kawasaki comenzó con una empresa naviera que más tarde evolucionó en un **gigante industrial japonés**.  
 Su visión de fabricar productos duraderos y de calidad marcó el futuro de la compañía.
 
+![Shozo Kawasaki](./images/shozo_kawasaki.jpg)
+
 ---
 
 ## Índice de contenido
@@ -29,10 +33,3 @@ Su visión de fabricar productos duraderos y de calidad marcó el futuro de la c
 - [Página oficial de Kawasaki](https://www.kawasaki.com/)
 
 ---
-
-**Palabras clave importantes:**  
-- **Innovación**  
-- **Potencia**  
-- **Competición**  
-
-Gracias a estas tres características, Kawasaki ha logrado mantenerse en la cima del motociclismo mundial.
